@@ -18,7 +18,7 @@
 .holder{
 	display:flex;
 	flex-direction:row;
-	flex-wrap:contain;
+	flex-wrap:wrap;
 	
 	
 }
